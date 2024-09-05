@@ -1,0 +1,4 @@
+pdfplumber
+streamlit
+transformers
+langchain

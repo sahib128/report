@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/mistralai/mistral-finetune/blob/main/tutorials/mistral_finetune_7b.ipynb#scrollTo=fJUQtuUaKYB7

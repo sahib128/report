@@ -1,0 +1,34 @@
+/* Hide the text and show only the circular element */
+.st-emotion-cache-1v7f65g .e1b2p2ww15 {
+    display: flex;
+    align-items: center; /* Center content horizontally */
+    justify-content: center; /* Center content vertically */
+    width: 25px; /* Fixed width */
+    height: 25px; /* Fixed height to match width */
+    border-radius: 50%; /* Make the element circular */
+    background-color: #ffffff; /* Background color */
+    border: 0px solid #bb1e1e; /* Border color (set to 0 for no border) */
+    color: #ffffff; /* Text color matches the background color */
+    font-size: 0; /* Hide text size */
+    text-align: center; /* Center the content */
+    cursor: pointer; /* Pointer cursor on hover */
+    user-select: none; /* Prevent text selection */
+    overflow: hidden; /* Hide any overflow */
+    padding: 0; /* Remove padding */
+    line-height: 0; /* Adjust line height to avoid extra space */
+    margin: 0; /* Reset margin to adjust positioning */
+    position: fixed; /* Position relative to the viewport */
+    bottom: 62px; /* Distance from the bottom of the viewport */
+    right: 1120px; /* Distance from the right side of the viewport */
+    z-index: 1000; /* Ensure it stays above other elements */
+}
+
+
+.st-emotion-cache-s1k4sy e1d2x3se3 {
+    position: fixed;
+}
+
+st-emotion-cache-1itdyc2 eczjsme18 {
+    position: fixed;
+    color: red;
+}
